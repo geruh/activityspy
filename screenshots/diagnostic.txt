@@ -1,0 +1,28 @@
+2019-04-18 15:39:55.958 10966-10966/? I/ruh.activitysp: Not late-enabling -Xcheck:jni (already on)
+2019-04-18 15:39:56.404 10966-10966/? W/ruh.activitysp: Unexpected CPU variant for X86 using defaults: x86
+2019-04-18 15:39:57.096 10966-10966/edu.washington.geruh.activityspy W/ruh.activitysp: JIT profile information will not be recorded: profile file does not exits.
+2019-04-18 15:39:57.097 10966-10966/edu.washington.geruh.activityspy I/chatty: uid=10085(edu.washington.geruh.activityspy) identical 10 lines
+2019-04-18 15:39:57.097 10966-10966/edu.washington.geruh.activityspy W/ruh.activitysp: JIT profile information will not be recorded: profile file does not exits.
+2019-04-18 15:39:57.149 10966-10966/edu.washington.geruh.activityspy I/InstantRun: starting instant run server: is main process
+2019-04-18 15:39:57.436 10966-10966/edu.washington.geruh.activityspy W/ruh.activitysp: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (light greylist, reflection)
+2019-04-18 15:39:57.437 10966-10966/edu.washington.geruh.activityspy W/ruh.activitysp: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (light greylist, reflection)
+2019-04-18 15:39:57.516 10966-10966/edu.washington.geruh.activityspy I/MainActivity: onCreate event fired
+2019-04-18 15:39:57.530 10966-10966/edu.washington.geruh.activityspy I/MainActivity: onStart event fired
+2019-04-18 15:39:57.530 10966-10966/edu.washington.geruh.activityspy I/MainActivity: onResume event fired
+2019-04-18 15:39:57.542 10966-10966/edu.washington.geruh.activityspy D/OpenGLRenderer: Skia GL Pipeline
+2019-04-18 15:39:57.638 10966-10997/edu.washington.geruh.activityspy I/ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+2019-04-18 15:39:57.639 10966-10997/edu.washington.geruh.activityspy I/ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+2019-04-18 15:39:57.639 10966-10997/edu.washington.geruh.activityspy I/OpenGLRenderer: Initialized EGL, version 1.4
+2019-04-18 15:39:57.639 10966-10997/edu.washington.geruh.activityspy D/OpenGLRenderer: Swap behavior 1
+2019-04-18 15:39:57.644 10966-10997/edu.washington.geruh.activityspy W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2019-04-18 15:39:57.644 10966-10997/edu.washington.geruh.activityspy D/OpenGLRenderer: Swap behavior 0
+2019-04-18 15:39:57.648 10966-10997/edu.washington.geruh.activityspy D/EGL_emulation: eglCreateContext: 0xe6a5ee20: maj 3 min 0 rcv 3
+2019-04-18 15:39:57.653 10966-10997/edu.washington.geruh.activityspy D/EGL_emulation: eglMakeCurrent: 0xe6a5ee20: ver 3 0 (tinfo 0xdf37d030)
+2019-04-18 15:39:57.764 10966-10997/edu.washington.geruh.activityspy D/EGL_emulation: eglMakeCurrent: 0xe6a5ee20: ver 3 0 (tinfo 0xdf37d030)
+2019-04-18 15:41:02.971 10966-10966/edu.washington.geruh.activityspy I/MainActivity: onPause event fired
+2019-04-18 15:41:06.373 10966-10997/edu.washington.geruh.activityspy D/EGL_emulation: eglMakeCurrent: 0xe6a5ee20: ver 3 0 (tinfo 0xdf37d030)
+2019-04-18 15:41:06.440 10966-10966/edu.washington.geruh.activityspy I/MainActivity: onStop event fired
+2019-04-18 15:41:12.639 10966-10966/edu.washington.geruh.activityspy I/MainActivity: onRestart event fired
+2019-04-18 15:41:12.645 10966-10966/edu.washington.geruh.activityspy I/MainActivity: onStart event fired
+2019-04-18 15:41:12.647 10966-10966/edu.washington.geruh.activityspy I/MainActivity: onResume event fired
+2019-04-18 15:41:12.723 10966-10997/edu.washington.geruh.activityspy D/EGL_emulation: eglMakeCurrent: 0xe6a5ee20: ver 3 0 (tinfo 0xdf37d030)
